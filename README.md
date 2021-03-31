@@ -9,4 +9,5 @@ Used Python SMTP libary to produce a bot like script that parses through a text 
 4. compile and run
 
 *Note: when using gmail, make sure to enable less secure apps to access which is located in Gmail setting*
+
 *Note: currently, script can only handle gmail and csus.edu emails*
