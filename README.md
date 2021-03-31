@@ -4,7 +4,7 @@ Used Python SMTP libary to produce a bot like script that parses through a text 
 
 ## To Use
 
-1. download emailBot.py
+1. download EmailBot.py
 2. input email address, password, subject, message, & txt file filled with emails 
 4. compile and run
 
